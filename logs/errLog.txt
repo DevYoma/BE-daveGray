@@ -1,0 +1,11 @@
+20230829	21:45:02	1ea3a5aa-062f-4e52-9888-e8da65954834	Error: Not allowed by CORS
+20230829	22:44:05	a69e7af8-f759-456a-8947-3919d706aa69	Error: Not allowed by CORS
+20230829	22:44:05	c5b14dc8-1521-4a81-a7bb-a0e6992b9d4f	Error: Not allowed by CORS
+20230830	00:26:21	63260a91-0fb1-45b6-a9a1-e2e3b40bc642	TypeError: path is not a function
+20230831	00:47:09	4bc9515d-f100-4aa9-9179-45e49f7f5629	TokenExpiredError: jwt expired
+20230831	01:01:57	3a12c1da-6e54-41ef-91d9-c454d2556f69	TokenExpiredError: jwt expired
+20230831	01:43:27	1fb5de33-0842-4ae1-93d5-a50fb3cbcfd2	TypeError: usersDB.find is not a function
+20230831	01:43:45	818dab24-75c9-4739-81c8-b5bca2e2affd	TypeError: usersDB.find is not a function
+20230831	02:11:42	8867cf52-34a9-40f4-add0-c2983587184c	RangeError: Invalid status code: undefined
+20230831	02:14:17	328c0ab0-cd58-438e-877a-53076e221022	RangeError: Invalid status code: undefined
+20230903	23:25:26	5a272ca7-b4f0-4aa0-be98-fd9fd49ff130	SyntaxError: Unexpected token f in JSON at position 12
