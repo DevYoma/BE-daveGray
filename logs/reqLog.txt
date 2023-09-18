@@ -166,3 +166,15 @@
 20230903	23:29:03	dec508ee-f0b8-47ca-87b7-6566293394c7	POST	undefined	/auth
 20230903	23:29:16	a922a6c8-5a28-435a-9499-59bf25eb012a	PUT	undefined	/employees
 20230903	23:29:25	a8ebd61d-d7e0-43e1-8b55-f046c4acd913	GET	undefined	/employees
+20230918	13:10:51	a2105f7d-5244-4862-8cac-a29cd376575a	OPTIONS	http://localhost:3000	/register
+20230918	13:10:51	7cca6f9f-3643-4b69-ae4c-688d145634df	POST	http://localhost:3000	/register
+20230918	13:29:29	5d4fe152-4619-41c0-b99b-3771f414af86	OPTIONS	http://localhost:3000	/register
+20230918	13:29:29	c20fcd1e-2268-446a-b8fb-8594c9fdd5b7	POST	http://localhost:3000	/register
+20230918	13:37:44	591cec20-4b3e-4ee5-9bf8-811e99482e2d	OPTIONS	http://localhost:3000	/register
+20230918	13:37:44	93e19155-de0e-4ce8-87ec-0a8247b02cbb	POST	http://localhost:3000	/register
+20230918	13:37:55	3cf5adf7-be1a-4c36-97bc-c6c77729122b	OPTIONS	http://localhost:3000	/register
+20230918	13:37:55	6a461897-338a-45ff-97ed-944f89ac9d38	POST	http://localhost:3000	/register
+20230918	13:39:58	089e791d-e0e1-4109-879d-6e1d05c921f1	OPTIONS	http://localhost:3000	/register
+20230918	13:39:58	d69fa24b-120d-4495-b031-38789b1e015c	POST	http://localhost:3000	/register
+20230918	13:40:12	48e0d1a1-c1c5-450f-95fc-bf18bdaf824a	OPTIONS	http://localhost:3000	/register
+20230918	13:40:12	bd4dd409-058f-439a-afa7-9b12c5051670	POST	http://localhost:3000	/register
