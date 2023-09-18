@@ -56,7 +56,7 @@ const handleLogin = async (req, res) => {
             // secure: true, => Needed for chrome
         })
         
-        res.json({ accessToken })
+        res.json({ accessToken, roles })
     }else{
         res.sendStatus(401); // Unauthorized
     }
